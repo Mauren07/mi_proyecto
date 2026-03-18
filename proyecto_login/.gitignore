@@ -1,0 +1,24 @@
+# OS / Editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.iml
+
+# Node
+api/node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Flutter / Dart
+flutter/application_login/.dart_tool/
+flutter/application_login/.flutter-plugins
+flutter/application_login/.flutter-plugins-dependencies
+flutter/application_login/.packages
+flutter/application_login/build/
+
+# Coverage / temp
+coverage/
+*.log
